@@ -1,0 +1,181 @@
+/***********************************
+* Responsive media queries code *
+************************************/
+/* Most of the Mobile Phone Code */
+@media ( min-width: 320px) and (max-width: 480px) {
+/* code start */
+.header-section {
+  width: 95%;
+}
+.service-section {
+  width: 95%;
+}
+.header-section .banner-part h1 {
+  font-size: 34px;
+  line-height: 44px;
+}
+.header-section .banner-part p {
+  font-size: 8px;
+  line-height: 18px;
+}
+.header-section .banner-part .btn-danger, .header-section .banner-part .btn-light{
+  font-size: 10px;
+  padding: 10px 25px;
+}
+.header-section .banner-part {
+  padding: 45px 0;
+}
+.service-section .inner-service p {
+  font-size: 10px;
+}
+.global-text h2 {
+  font-size: 24px;
+  line-height: 34px;
+}
+.recentwork-section {
+  width: 95%;
+}
+.study-section {
+  width: 95%;
+}
+.recentwork-section .recent-menu ul li a {
+  font-size: 12px;
+  line-height: 22px;
+  padding: 5px 12px;
+}
+.experience-section .inner-experience {
+  padding: 40px 0;
+}
+.pricing-section .price-box .price {
+  width: 25%;
+}
+.team-section {
+  width: 95%;
+  margin: 10px 0;
+  padding: 10px 0;
+}
+.team-section p {
+  color: #fff;
+  margin: 0px;
+}
+.team-section h4 {
+  margin: 20px 70px 0;
+  font-size: 16px;
+}
+.team-section h5 {
+  margin: 0px 40px 0;
+  font-size: 16px;
+}
+.team-section p {
+  margin: 0px 34px;
+  font-size: 12px;
+}
+.integration-section{
+	width: 95%;
+}
+.global-text h2 {
+  font-size: 18px;
+  line-height: 30px;
+  letter-spacing: 0;
+}
+.global-text p {
+  font-size: 10px;
+  line-height: 18px;
+}
+.touch-section .address-box h4 {
+  font-size: 16px;
+}
+.touch-section .address-box p {
+  font-size: 11px;
+  line-height: 18px;
+  margin-bottom: 20px;
+}
+.touch-section .form-control {
+  font-size: 11px;
+  width: 230px;
+}
+.free-section .global-text h2 {
+  font-size: 21px;
+}
+.footer-section .social-icon .fa-brands {
+  margin-left: 3px;
+  font-size: 12px;
+}
+.history-section img {
+  width: 290px;
+}
+.study-section .creative-box {
+  width: 95%;
+}
+.study-section .imgright img {
+  height: 375px;
+}
+.service-section .inner-service {
+  width: 95%;
+}
+.service-section .right {
+  width: 95%;
+  height: 397px;
+}
+.experience-section {
+  width: 95%;
+}
+.blog-section {
+  width: 95%;
+}
+.history-section {
+  width: 95%;
+}
+.feature-section {
+  width: 95%;
+}
+.touch-section {
+  width: 95%;
+}
+.pricing-section {
+  width: 95%;
+}
+.free-section {
+  width: 95%;
+}
+.footer-section p {
+  padding-top: 2px;
+  font-size: 10px;
+}
+.footer-section {
+  width: 95%;
+}
+/* code end */
+}
+/* Most of the Mobile Phone and low-resolution Tablet Code */
+@media ( min-width: 481px) and (max-width: 767px) {
+/* code start */
+
+/* code end */
+}
+/* Most of the Tablet Phone and mini notebook Code */
+@media ( min-width: 768px) and (max-width: 1024px) {
+/* code start */
+.touch-section .form-control {
+  width: 220px;
+}
+.touch-section .address-box {
+  padding: 31px;
+}
+.team-section p {
+  margin: 0;
+}
+.experience-section .inner-experience p {
+  font-size: 11px;
+}
+.team-section h4 {
+  margin: 120px 175px 0;
+}
+.team-section h5 {
+  margin: 0px 135px 0;
+}
+.team-section p {
+  margin: 0px 133px;
+}
+/* code end */
+}
